@@ -1,3 +1,5 @@
+php artisan make:model -a Autor
+
 # plantilla
 
 editorial monografias index, enlaces y botones
